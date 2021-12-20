@@ -1,0 +1,10 @@
+body {
+  background-color:#141410 !important;
+  color: white !important;
+}
+hr {
+  border: solid 1px #4374BA !important;
+}
+.btn{
+  width: 500px !important;
+}
